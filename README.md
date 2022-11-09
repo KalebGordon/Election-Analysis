@@ -27,6 +27,6 @@ We were able to analyze the election data and answer all of the questions that T
   <li>There were 369,711 total votes.</li>
 </ul>
 
-The text file containing the results data can be found <a href="[url](https://github.com/KalebGordon/Election-Analysis/blob/main/analysis/election_analysis.txt)">here</a> .
+The text file containing the results data can be found <a href="Election-Analysis/analysis/election_analysis.txt">here</a>.
 
 ## Summary
